@@ -1,0 +1,70 @@
+# BASIC KEYWORDS
+sunset
+beach
+ocean
+waves
+palm trees
+sky
+nature
+island
+
+# MULTI-WORD PHRASES
+sunset beach
+golden hour beach
+tropical island beach
+calm ocean waves
+orange sky sunset
+
+# FULL NATURAL LANGUAGE SENTENCES
+a peaceful sunset beach with calm waves
+a tropical island beach during golden hour
+a serene ocean view with soft sunlight and palm trees
+
+# DETAILED DESCRIPTIVE PROMPTS
+a peaceful tropical beach at sunset with palm trees,
+golden orange sky, calm waves, soft lighting, cinematic view
+
+# MIXED CONCEPT PROMPTS
+sunset beach palm trees calm waves golden sky
+tropical island ocean sunset nature landscape
+
+# MOOD / VIBE BASED
+peaceful beach sunset
+romantic sunset by the ocean
+dramatic sunset sky over the sea
+serene and calm nature scenery
+
+# PHOTOGRAPHY / STYLE BASED
+cinematic beach sunset
+high quality sunset beach photography
+realistic ocean sunset photograph
+4k ultra detailed beach sunset
+
+# LIGHTING / COLOR BASED
+golden hour sunset beach
+orange and pink sunset sky
+warm lighting beach scene
+soft sunlight over ocean waves
+
+# SCENE COMPOSITION
+wide angle beach sunset
+close up ocean waves at sunset
+aerial view of tropical beach at sunset
+landscape view of sunset over the sea
+
+# ARTISTIC / CREATIVE
+dreamy sunset beach scenery
+minimalist ocean sunset
+aesthetic beach sunset wallpaper
+artistic nature photography sunset
+
+# TIME / WEATHER
+sunset beach cloudy sky
+clear sky sunset over ocean
+evening beach scenery
+dusk ocean horizon
+
+# COMPLEX COMBINED PROMPT (BEST RESULTS)
+cinematic high quality photograph of a peaceful tropical beach
+at sunset with palm trees, golden orange sky, calm ocean waves,
+soft lighting, realistic nature scenery

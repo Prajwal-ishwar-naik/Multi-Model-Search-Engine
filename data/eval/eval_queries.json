@@ -1,0 +1,14 @@
+[
+  {
+    "query": "sunset beach",
+    "relevant_ids": [3, 7, 12]
+  },
+  {
+    "query": "mountain landscape",
+    "relevant_ids": [5, 9]
+  },
+  {
+    "query": "forest nature",
+    "relevant_ids": [0, 1, 4]
+  }
+]
